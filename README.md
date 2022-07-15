@@ -7,3 +7,10 @@ Here, we create a basic flask app, with ability to say hello world on base page.
 
 The above routes created only for POC purpose. Flask can serve a much larger purpose. 
 
+
+
+Resources: 
+1. https://flask.palletsprojects.com/en/2.1.x/ 
+2. https://smirnov-am.github.io/tags/flask/
+3. https://codesource.io/building-a-restful-crud-api-with-flask/
+
